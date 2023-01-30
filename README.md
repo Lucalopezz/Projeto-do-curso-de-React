@@ -1,2 +1,3 @@
 # Projeto-do-curso-de-React
-Projeto do curso de React do canal Hora de Codar
+Projeto React <br/>
+Curso do canal Hora de Codar
