@@ -1,0 +1,62 @@
+{
+  "projects": [
+    {
+      "name": "Planta da casa",
+      "budget": "10000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 2500,
+      "services": [
+        {
+          "name": "Contratar Engenheiro",
+          "cost": "2500",
+          "description": "Engenheiro bom para fazer a planta da casa",
+          "id": "cafc5747-ffd8-4ab5-999b-92a90ab9b0f5"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Design da sala de estar",
+      "budget": "500",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 450,
+      "services": [
+        {
+          "name": "Contratar um designer",
+          "cost": "450",
+          "description": "Procurar um bom designer",
+          "id": "7fb3d5ba-e200-489d-8378-a69f4e16f2a7"
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    },
+    {
+      "id": 5,
+      "name": "Estrutura"
+    }
+  ]
+}
