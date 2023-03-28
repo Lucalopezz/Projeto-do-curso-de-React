@@ -1,3 +1,3 @@
 # Projeto-do-curso-de-React
 Projeto React ⚛️ <br/>
-Curso do canal Hora de Codar
+Curso do canal Hora de Codar + Alterações feitas por mim
